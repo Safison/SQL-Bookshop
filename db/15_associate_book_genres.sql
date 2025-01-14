@@ -2,7 +2,7 @@
 
 INSERT INTO books_genres_junction
 VALUES 
-(1, 2),
+(2, 2),
 (2, 5),
 (3, 4),
 (4, 6),
