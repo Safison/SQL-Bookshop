@@ -24,8 +24,8 @@ SELECT title, author_name FROM books
 JOIN authors
 ON books.author_id = authors.author_id;
 
-DELETE FROM authors
-WHERE author_id = 14;
+-- DELETE FROM authors
+-- WHERE author_id = 14;
 
 SELECT title, author_name FROM books
 JOIN authors

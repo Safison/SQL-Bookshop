@@ -10,8 +10,11 @@ CREATE TABLE agents(
 
 );
 
+
 ALTER TABLE authors
 ADD author_contact VARCHAR(100);
 
 
+
+ 
 
